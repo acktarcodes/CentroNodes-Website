@@ -1,17 +1,15 @@
 # Centronodes Main Website (ReactJS)
 
-This website is fucked by Acktar#6817 ... You should join my [Discord Server](https://discord.gg/QgkKCq7WJW) btw cause... ```All my friends are Toxic all ambitionless so rude and always negative``` i forgot the rest of the lyrics but that doesnt matter nor will stop me
-
-## NOTICE TO YOUU. YES YOU... 
-
+This website is fucked by Acktar#6817 ... You should join my [Discord Server](https://discord.gg/QgkKCq7WJW) btw cause... ```All my friends are Toxic all ambitionless so rude and always negative``` i forgot the rest of the lyrics but that doesnt matter nor will stop me\
+\
 ⭐ Star the project or you will not get good stuffs in the future
 
 ## Heres some screenshots of the website lol
+![centro-main](https://user-images.githubusercontent.com/103925997/207392478-dd07213b-1c41-4202-9cf2-6db1688f4225.png)
+![centro-team](https://user-images.githubusercontent.com/103925997/207392539-d20f05d0-5c54-4d30-b23f-17dc7b267b83.png)
+![centro-contact](https://user-images.githubusercontent.com/103925997/207392568-0c3efed3-1d5f-433d-8e20-8862f7e3894f.png)
+![centro-aboutus](https://user-images.githubusercontent.com/103925997/207392613-52f569ac-f248-40cc-89f4-67f518bdf7ea.png)
 
-----
-To add pictures here after posting on GH
-
-----
 ## How do i run the app/website?
 
 ### `npm start`
