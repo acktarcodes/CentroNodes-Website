@@ -1,8 +1,10 @@
 # Centronodes Main Website (ReactJS)
 
-This website is fucked by Acktar#6817 ... You should join my [Discord Server](https://discord.gg/QgkKCq7WJW) btw cause... ```All my friends are Toxic all ambitionless so rude and always negative``` i forgot the rest of the lyrics but that doesnt matter nor will stop me\
+⭐ Star the project for more good leaks\
 \
-⭐ Star the project or you will not get good stuffs in the future
+This website is fucked by Acktar#6817 ... You should join my [Discord Server](https://discord.gg/QgkKCq7WJW) btw cause... ```All my friends are Toxic all ambitionless so rude and always negative``` i forgot the rest of the lyrics but that doesnt matter\
+\
+⭐ Star the project for more good leaks
 
 ## Heres some screenshots of the website lol
 ![centro-main](https://user-images.githubusercontent.com/103925997/207392478-dd07213b-1c41-4202-9cf2-6db1688f4225.png)
@@ -41,3 +43,4 @@ Then run npm start for development
             OR
 Run npm run build for a production build
 ```
+⭐ Star the project for more good leaks
