@@ -1,6 +1,6 @@
 # Centronodes Main Website (ReactJS)
 
-**⭐ Star the project for more good leaks**\
+**⭐ Star the project for more good leaks**
 
 > Join my [Discord Server](https://discord.gg/QgkKCq7WJW) for support!
 > 
