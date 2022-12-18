@@ -3,7 +3,7 @@
 **⭐ Star the project for more good leaks**\
 \
 Join my [Discord Server](https://discord.gg/QgkKCq7WJW) for support!\
-Leaked by Acktar#6817
+Leaked by Acktar#6817\
 \
 **⭐ Star the project for more good leaks**
 
